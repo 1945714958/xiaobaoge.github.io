@@ -6,10 +6,10 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   base: '/xiaobaoge.github.io/',
 
-  lang: 'en-US',
+  lang: 'zh-CN',
 
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  title: 'Xiaobaoge',
+  description: '锻炼文档输出能力',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
